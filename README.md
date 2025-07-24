@@ -1,3 +1,20 @@
+OUTPUT;
+
+
+
+
+
+
+
+<img width="1862" height="875" alt="i1" src="https://github.com/user-attachments/assets/caf7c6a9-50f9-4bc3-9f71-46b89de04903" />
+<img width="1872" height="897" alt="i" src="https://github.com/user-attachments/assets/634de1ef-51f0-45d5-9b89-8e06773d948e" />
+<img width="1900" height="826" alt="h" src="https://github.com/user-attachments/assets/6d5e80e6-edb4-4ccb-8eb5-ed865af90258" />
+<img width="1867" height="958" alt="p" src="https://github.com/user-attachments/assets/80f04a99-0b0d-42ae-8e1e-42af23a9f333" />
+<img width="1855" height="915" alt="login" src="https://github.com/user-attachments/assets/811f3f9e-481b-4406-af85-8ef08972dc3a" />
+
+
+
+
 Project Overview
  YatraSahayak - README
  YatraSahayak is a travel assistant web application built using the MERN stack (MongoDB, Express.js, React, Node.js).
