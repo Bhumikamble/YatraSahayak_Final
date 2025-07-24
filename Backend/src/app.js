@@ -18,6 +18,8 @@ app.use(function(req, res, next) {
        next();
 });
  app.use("/posts", postRoutes);
+ app.use("/api/v1/users", userRouter);
+
 
 app.use(errorHandler);
 
