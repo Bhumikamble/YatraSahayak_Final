@@ -19,13 +19,7 @@ app.use(function(req, res, next) {
 });
  app.use("/posts", postRoutes);
  app.use("/api/v1/users", userRouter);
-
-
-app.use(errorHandler);
-
-
-
-app.use("/api/v1/users", userRouter) 
+ app.use(errorHandler);
 
 
 export {app}
